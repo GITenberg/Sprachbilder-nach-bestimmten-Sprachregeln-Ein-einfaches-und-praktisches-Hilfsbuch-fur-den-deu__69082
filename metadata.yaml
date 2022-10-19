@@ -1,0 +1,25 @@
+_repo: Sprachbilder-nach-bestimmten-Sprachregeln-Ein-einfaches-und-praktisches-Hilfsbuch-fur-den-deu__69082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wiedemann, Franz
+    gutenberg_agent_id: '55091'
+    url: http://www.gutenberg.org/2009/agents/55091
+description: ''
+gutenberg_issued: '2022-10-01'
+identifiers:
+  gutenberg: '69082'
+language: de
+pgterms:marc905: 20180624030534wiedemann
+pgterms:marc906: '1874'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Alfred Oehmigke's Verlag,1874.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sprachbilder nach bestimmten Sprachregeln: Ein einfaches und praktisches Hilfsbuch
+  für den deutschen Sprachunterricht in der Volksschule'
+url: http://www.gutenberg.org/ebooks/69082
