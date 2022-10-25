@@ -1,11 +1,16 @@
 _repo: Sprachbilder-nach-bestimmten-Sprachregeln-Ein-einfaches-und-praktisches-Hilfsbuch-fur-den-deu__69082
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69082-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiedemann, Franz
     gutenberg_agent_id: '55091'
     url: http://www.gutenberg.org/2009/agents/55091
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69082#Sprachbilder-nach-bestimmten-Sprachregeln-Ein-einfaches-und-praktisches-Hilfsbuch-fur-den-deu_
 gutenberg_issued: '2022-10-01'
 identifiers:
   gutenberg: '69082'
